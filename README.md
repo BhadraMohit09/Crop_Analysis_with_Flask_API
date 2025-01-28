@@ -1,4 +1,4 @@
-### Crop Yield Prediction Web Application
+> ### Crop Yield Prediction Web Application🌾
 
 This project is a **web application** designed to predict crop yield based on various agricultural parameters. The app allows users to input information like farm area, fertilizer used, pesticide used, water usage, crop type, irrigation type, soil type, and season to predict the expected yield. The application uses a pre-trained **machine learning model** that processes the inputs and returns a predicted yield in tons.
 
