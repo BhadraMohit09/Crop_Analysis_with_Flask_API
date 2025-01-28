@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import joblib
 import pandas as pd
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='.')
 
 # Load the trained model
 model = joblib.load('model.pkl')
