@@ -30,3 +30,6 @@ To get the source code, clone the repository from GitHub:
 ```bash
 git clone https://github.com/BhadraMohit09/Crop_Analysis_with_Flask_API.git
 cd Crop_Analysis_with_Flask_API
+
+> [!TIP]
+> Do follow if you find content useful enough.
