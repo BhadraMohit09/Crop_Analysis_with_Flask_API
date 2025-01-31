@@ -33,4 +33,4 @@ cd Crop_Analysis_with_Flask_API
 ```
 
 > [!TIP]
-> Do follow if you find content useful enough.
+> Do follow if you find content useful enough.😜
