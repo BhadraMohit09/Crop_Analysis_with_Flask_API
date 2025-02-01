@@ -25,7 +25,7 @@ Before running the app, make sure you have the following installed:
 - **pip** (Python package manager)
 - **Virtual Environment** (optional but recommended for isolation)
 
-#### Step 1: Clone the repository
+#### Step 1: Clone the repository 🧗🏻
 To get the source code, clone the repository from GitHub:
 ```bash
 git clone https://github.com/BhadraMohit09/Crop_Analysis_with_Flask_API.git
