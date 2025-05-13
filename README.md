@@ -9,7 +9,7 @@ This project is a **web application** designed to predict crop yield based on va
 - **Fast Prediction** ⚡: The machine learning model makes predictions instantly after submission.
 - **Open Source** 🌍: The project is open-source and can be freely modified and used for educational and personal purposes.
 
-### Technologies Used 🛠️
+#### Technologies Used 🛠️
 - **Flask** 🐍: Lightweight Python web framework to build the server-side logic and handle HTTP requests.
 - **Joblib** 📦: Used for loading the pre-trained machine learning model and making predictions.
 - **Pandas** 📊: Used to format and preprocess the input data into a DataFrame that is compatible with the model.
